@@ -6,5 +6,4 @@ This repository is built step by step in the tutorial.
 
 modified
 
-
-modified part 2
+modified 2
