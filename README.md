@@ -5,8 +5,3 @@ This is an example repository for the Git tutoial on https://www.w3schools.com
 This repository is built step by step in the tutorial.
 
 modified
-
-
-modified part 2
-
-modified part 3
